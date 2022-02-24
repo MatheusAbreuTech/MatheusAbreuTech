@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Olá, eu sou o Matheus Abreu</h1>
+  <h1>Desenvolvedor Frontend</h1>
+  
+  <p>Experiência em ReactJs, HTML, CSS, JavaScript e UI Design com Figma. Possuo conhecimento em metodologia ágil SCRUM adquirido no curso da Digital Innovation One.</p>
 </div>
 
 
