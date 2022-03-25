@@ -1,10 +1,27 @@
-<div align="center">
-  <h1>Desenvolvedor Frontend</h1>
+<div align="left">
+  <h1>Sobre mim</h1>
+  <h3>Matheus Abreu</h3>
+  <h4>Desenvolvedor Frontend</h4>
+  <p>Apaixonado por tecnologia desde criança até que em 2020 entrei no curso de desenvolvimento de sistemas na Etec Basilides de Godoy e, a partir desse momento, não parei mais de programar e entrar mais a fundo nesse mundo, ganhando o certificado de melhor Desenvolvedor Front-end da turma.</p>
+  
+  <h3>Técnologias e ferramentas que possuo experiência:</h3>
+  <ul>
+    <li>React</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>HTML5</li>
+    <li>CSS3/SCSS</li>
+    <li>Figma</li>
+  </ul>
+  
+  <h3>Estudando no momento:</h3>
+  <ul>
+    <li>Styled-component</li>
+    <li>Firebase</li>
+  </ul>
 </div>
 
-<p>Experiência em ReactJs, JavaScript, TypeScript, HTML, CSS, Firebase e UI Design com Figma. Possuo conhecimento em metodologia ágil SCRUM adquirido no curso da Digital Innovation One.</p>
-
-
+<hr/>
 <div align="center">
   <a href="https://github.com/MthAbreu">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusAbreuTech&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -19,9 +36,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div> 
-  
-  ##
-  
+
+<h2 align="center">Contato</h2>
 <div align="center">
   <a href = "mailto:matheusabreutech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/MatheusAbreuTech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
