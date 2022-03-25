@@ -2,7 +2,7 @@
   <h1>Desenvolvedor Frontend</h1>
 </div>
 
-<p>Experiência em ReactJs, HTML, CSS, JavaScript e UI Design com Figma. Possuo conhecimento em metodologia ágil SCRUM adquirido no curso da Digital Innovation One.</p>
+<p>Experiência em ReactJs, JavaScript, TypeScript, HTML, CSS, Firebase e UI Design com Figma. Possuo conhecimento em metodologia ágil SCRUM adquirido no curso da Digital Innovation One.</p>
 
 
 <div align="center">
