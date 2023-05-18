@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://github.com/MthAbreu">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusAbreuTech&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbreuTech&layout=compact&langs_count=7&hide=java, csharp&theme=vue-dark"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbreuTech&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
