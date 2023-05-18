@@ -12,12 +12,12 @@
     <li>HTML5</li>
     <li>CSS3/SCSS</li>
     <li>Figma</li>
+    <li>Styled-component</li>
   </ul>
   
   <h3>Estudando no momento:</h3>
   <ul>
-    <li>Styled-component</li>
-    <li>Firebase</li>
+    <li>NodeJs</li>
   </ul>
 </div>
 
