@@ -13,12 +13,6 @@
 
 ---
 
-### 📌 Projetos em Destaque  
-🔹 [**Nome do Projeto 1**](link-do-repositorio) - Breve descrição do que faz.  
-🔹 [**Nome do Projeto 2**](link-do-repositorio) - Breve descrição do que faz.  
-
----
-
 ### 📊 Estatísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusabreutech&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusabreutech&layout=compact&theme=dark)  
